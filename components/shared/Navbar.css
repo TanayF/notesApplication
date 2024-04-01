@@ -1,0 +1,32 @@
+.navbar {
+    background: linear-gradient(90deg, rgb(31, 27, 27), rgb(143, 31, 203));
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar .nav-link {
+    
+    padding-top: 100px;
+    color: white;
+    margin: 0 40px; /* Add space between the links */
+  }
+  
+  .navbar .nav-link:hover {
+    background: linear-gradient(to right, #6238F6, #9400d3);
+    padding-top: 10px  ;
+    border-radius: 18px;
+    color: white;
+    background: rgb(143, 31, 203);
+    
+  }
+  
+  .navbar  .navbar-nav{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+  .navbar  .form-inline_my-2_my-lg-0{
+    padding-left: 250px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+ 

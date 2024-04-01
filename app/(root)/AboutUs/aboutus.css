@@ -1,0 +1,16 @@
+.about-us {
+    background: linear-gradient(90deg, black, purple);
+    color: white;
+    padding: 20px;
+  }
+  
+  .about-us h1 {
+    text-align: center;
+    color: white;
+  }
+  
+  .about-us p {
+    text-align: justify;
+    color: white;
+  }
+  
